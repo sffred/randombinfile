@@ -1,9 +1,9 @@
 # randombinfile
 A random file content generator
 
-linux下载：https://github.com/sffred/randombinfile/releases/download/v0.1/linux-rp
+linux下载：https://github.com/sffred/randombinfile/releases/download/v0.1/linux-x86_64-rp
 
-win64下载：https://github.com/sffred/randombinfile/releases/download/v0.1/win64-rp.exe
+win64下载：https://github.com/sffred/randombinfile/releases/download/v0.1/win-64-rp.exe
 
 这个嘛，就是用来生成不可压缩的，毫无雷同的垃圾文件，用来填充空间的啦
 
