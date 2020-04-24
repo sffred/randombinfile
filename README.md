@@ -17,4 +17,4 @@ rp有4个参数，-o,-n,-s,-d。-o 后跟输出路径，不能带空格，最后
 例如PS C:\User\xxx\Downloads> rp -o D:\a\ -n 100 会在D盘a文件夹下生成100个1G大小的随机文件。
 
 
-如有问题，请联系sffred@qq.com
+如有问题，请联系sffredx@gmail.com
