@@ -5,7 +5,7 @@ linux下载：https://github.com/sffred/randombinfile/releases/download/v0.1/rp-
 
 win64下载：https://github.com/sffred/randombinfile/releases/download/v0.1/rp-win64-0.1.zip
 
-这个嘛，就是用来生成不可压缩的，毫无雷同的垃圾文件，用来填充空间的啦
+这是一个垃圾文件生成器，用于生成测试用的随机文件。采用了尽可能高效的随机算法，以提高文件生成效率（比rand()快一个数量级，可能没那么随机，但是有效）
 
 源码见rp.c，可自行用参数g++ rp.c -o rp -static编译校验，安全无毒没有危险。
 
